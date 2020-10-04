@@ -1,5 +1,5 @@
 {
-  "homePage": "http://shabbirumrali.github.io/QuizBee",
+  "homePage": "http://shabbirumrali.github.io/quiz-game",
   "name": "quizbee",
   "version": "0.1.0",
   "private": true,
@@ -12,7 +12,7 @@
     "react-scripts": "3.4.3"
   },
   "scripts": {
-    "predeploy": "npm  run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
